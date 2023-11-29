@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Learning\\dotnetacademy\\build.proj": {}
+  },
+  "projects": {
+    "C:\\Learning\\dotnetacademy\\build.proj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Learning\\dotnetacademy\\build.proj",
+        "projectName": "build",
+        "projectPath": "C:\\Learning\\dotnetacademy\\build.proj",
+        "packagesPath": "C:\\Users\\Anca\\.nuget\\packages\\",
+        "outputPath": "C:\\Learning\\dotnetacademy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anca\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

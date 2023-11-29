@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "roaRqzUbRbhe5+fWtFupsL9hwyMW63GcC9H+SpN2g3I53fBTtWO3+d9Q1EELO1FMU3s959SvYe5A4n5eIJVTSA==",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\dotnetacademy\\build.proj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anca\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Anca\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.3\\microsoft.netframework.referenceassemblies.net45.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
